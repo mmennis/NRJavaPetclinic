@@ -1,0 +1,5 @@
+This is the standard petclinic sample app provided with SpringFramework 2.5.6 in use for testing at NewRelic.
+
+You will need a mysql database called petclinic and a user 'pc' with password 'pc' and full privileges on that DB.
+
+The mysql-dump directory has a tarball of the standard data set used in internal testing.
