@@ -18,7 +18,7 @@
 	<property name="testreports.dir" value="junit-reports"/>
 	<property name="testhtml.dir" value="${testreports.dir}/html"/>
 
-	<property name="spring.root" value="../.."/>
+	<property name="spring.root" value="./spring-framework"/>
 	<property name="domain.classes" value="org/springframework/samples/petclinic/*.class"/>
 	<property name="tomcat.context" value="tomcat/META-INF"/>
 
